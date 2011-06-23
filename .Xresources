@@ -1,0 +1,6 @@
+urxvt.background:       black
+urxvt.foreground:       white
+urxvt.cursorColor:      red
+urxvt.highlightColor:   gray
+urxvt.scrollBar:        false
+urxvt.font:             xft:Dina:antialias=1:size=9
